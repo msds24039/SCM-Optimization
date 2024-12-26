@@ -29,18 +29,18 @@ Private datasets or sample data in the correct format (included in the data/ fol
 
 **4. Usage Guide**
 Navigate to the notebooks/ folder.
-Open a notebook such as clustering_notebook.ipynb or mapping_notebook.ipynb.
+Open a notebook SCM v5.ipynb which contains complete code for all sections.
 Follow the cell instructions to replicate results.
 
 **5. Results and Visuals**
 **Vendor Clustering:**
 2D Visualization and 3D Visualization are stored in results.
 **Process-to-Technology Mapping:**
-Results of LLM responses are saved in results/gpt_neo_1_3b_predictions.xlsx etc
+Results of each LLM responses are saved in results/gpt_neo_1_3b_predictions.xlsx etc
 **Model Evaluation:**
 Evaluation metrics, including confusion matrices and accuracy scores, are available in results.
 **Vendor Ranking:**
 Final rankings and QCD scores are stored in results.
 
-**7. License Information**
+**6. License Information**
 N/A

@@ -1,0 +1,11 @@
+
+### 3. **requirements.txt**
+
+pandas
+numpy
+matplotlib
+scikit-learn
+transformers
+openpyxl
+seaborn
+google-colab
